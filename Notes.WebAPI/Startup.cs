@@ -14,6 +14,7 @@ using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
 using Microsoft.Extensions.Logging;
 using Notes.WebAPI.Controllers;
+using Notes.WebAPI.Services;
 
 namespace Notes.WebAPI
 {
